@@ -1,3 +1,10 @@
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
 @font-face {
     font-family: Figtree-italic;
     src: url("../assets/fonts/Figtree-Italic-VariableFont_wght.ttf");
@@ -9,8 +16,3 @@
     src: url("../assets/fonts/Figtree-VariableFont_wght.ttf");
     font-weight: 500;
 }
-
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
