@@ -446,6 +446,10 @@ video {
   display: none;
 }
 
+html {
+  font-family: "Figtree", sans-serif;
+}
+
 *, ::before, ::after {
   --tw-border-spacing-x: 0;
   --tw-border-spacing-y: 0;
@@ -697,22 +701,6 @@ video {
   --tw-shadow: 10px 10px 0px -1px rgba(0,0,0,0.75);
   --tw-shadow-colored: 10px 10px 0px -1px var(--tw-shadow-color);
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
-}
-
-@font-face {
-  font-family: 'Figtree-italic';
-
-  src: url("../assets/fonts/Figtree-Italic-VariableFont_wght.ttf");
-
-  font-weight: 500;
-}
-
-@font-face {
-  font-family: 'Figtree';
-
-  src: url("../assets/fonts/Figtree-VariableFont_wght.ttf") format('truetype');
-
-  font-weight: 500;
 }
 
 @media (min-width: 1024px) {

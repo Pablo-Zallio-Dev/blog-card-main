@@ -5,14 +5,8 @@
 @tailwind utilities;
 
 
-@font-face {
-    font-family: 'Figtree-italic';
-    src: url("../assets/fonts/Figtree-Italic-VariableFont_wght.ttf");
-    font-weight: 500;
-}
-
-@font-face {
-    font-family: 'Figtree';
-    src: url("../assets/fonts/Figtree-VariableFont_wght.ttf") format('truetype');
-    font-weight: 500;
-}
+@layer base {
+    html {
+        font-family: "Figtree", sans-serif;
+    }
+  }
