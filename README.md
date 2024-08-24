@@ -1,5 +1,5 @@
 
-# Blog Preview Car Main
+# Blog Preview Card Main
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
