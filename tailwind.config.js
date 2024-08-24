@@ -9,8 +9,8 @@ module.exports = {
         "grey-950": "hsl(0, 0%, 7%)",
       },
       fontFamily:{
-        "Figtree-italic":'Figtree-italic',
-        "Figtree":'Figtree',
+        "Figtree-italic": ['Figtree-italic', 'sans-serif'],
+        "Figtree": ['Figtree', 'sans-serif'],
       },
       boxShadow: {
         "full": "10px 10px 0px -1px rgba(0,0,0,0.75)"
